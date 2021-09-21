@@ -14,12 +14,12 @@ A generic information extraction framework.
 
 ---
 ## 👀Notice
-More details can be found [here](https://github.com/HYTYH/Information-Retrival-Framework/blob/main/docs/InformationRetrievalFramework_doc.pdf)
+More details can be found [here](https://github.com/HYTYH/Information-Extraction-Framework/blob/main/docs/InformationExtraction_docs.pdf)
 
 ---
 
 ## 🖼Runtime Screenshot
-<img src="./data/result.png" width="350" alt="running" style="zoom:50%;" />
+<img src="./data/result.png" width="500" alt="running" style="zoom:50%;" />
 
 ---
 
